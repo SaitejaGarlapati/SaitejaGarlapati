@@ -4,7 +4,7 @@
 
 - 🌱 I’m passionate about **Distributed Systems** & **Microservices**
   
-- 🤖 Currently diving deeper into **AI/LLM Infrastructure** — exploring inference frameworks like **vLLM** and **TensorZero**
+- 🤖 Currently diving deeper into **AI/LLM Infrastructure**. exploring inference frameworks like **vLLM** and **TensorZero**
   
 - ⚙️ I enjoy building scalable infra tools and backend platforms in **Go** & **Kubernetes** & **Python** & a growing stack of modern technologies
 
